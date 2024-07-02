@@ -1,12 +1,10 @@
-// https://ace-squid-28.clerk.accounts.dev
+// https://quick-wasp-57.clerk.accounts.dev
 
-const authConfig = {
+export default {
   providers: [
     {
-      domain: "https://ace-squid-28.clerk.accounts.dev",
+      domain: "https://quick-wasp-57.clerk.accounts.dev",
       applicationID: "convex",
     },
   ],
 };
-
-export default authConfig;

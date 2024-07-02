@@ -16,7 +16,7 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "cool-malamute-536.convex.cloud",
+        hostname: "befitting-mammoth-112.convex.cloud",
       },
     ],
   },
