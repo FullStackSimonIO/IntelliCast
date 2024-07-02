@@ -16,7 +16,7 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "befitting-mammoth-112.convex.cloud",
+        hostname: "fastidious-stingray-620.convex.cloud",
       },
     ],
   },
