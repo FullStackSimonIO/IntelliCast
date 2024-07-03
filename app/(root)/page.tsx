@@ -3,6 +3,7 @@ import PodcastCard from "@/components/PodcastCard";
 import { useQuery } from "convex/react";
 import { api } from "@/convex/_generated/api";
 import LoaderSpinner from "@/components/LoaderSpinner";
+import Chatbot from "@/components/Chatbot";
 
 const Home = () => {
   const trendingPodcasts = useQuery(api.podcasts.getTrendingPodcasts);
@@ -27,6 +28,7 @@ const Home = () => {
             )
           )}
         </div>
+        <Chatbot />
       </section>
     </div>
   );
