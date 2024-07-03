@@ -37,7 +37,7 @@ const Chatbot: React.FC = () => {
         return (responses as ResponseData)[key];
       }
     }
-    return "Sorry, I have no response for that. Currently supported topics are: Computer Science, Investing, Travelling, Cars and Food.";
+    return "Sorry, I have no response for that. Currently supported topics are: Computer Science, Investing, Travelling, Cars and Food. You an also ask me about a specific topic (Like real estate investing or cryptography) or ask for a joke.";
   };
 
   const toggleChat = () => {
