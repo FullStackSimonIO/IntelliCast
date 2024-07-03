@@ -1,4 +1,28 @@
 {
-  "real estate": "For real estate investing I can recommend you this Podcast: http://customurl.com",
-  "stocks": "For stock investing, I recommend checking out this Podcast: http://anothercustomurl.com"
+  "real estate": "If you are interested in Real Estate, you should check out the Podcast 'Real Estate Investment' by 'Simon Edholzer'",
+  "norway": "If you would like to travel to Norway, you should check out the Audibook 'Travelling through Norway' by 'Simon Edholzer'",
+  "cryptography": "For cryptography I can recommend you this Audibook: 'Cryptography'",
+  "electric cars": "Most listened podcast about cars is 'Electric Cars' by 'Simon Edholzer'",
+
+  "how are you": "I'm just a bunch of code, so I don't have feelings, but I'm here and ready to help you!",
+  "joke": "Why don't scientists trust atoms? Because they make up everything!",
+  "your name": "I'm your friendly chatbot, here to assist you with your queries!",
+  "what can you do": "I can answer your questions, tell you jokes, provide information, and much more! Just ask!",
+  "who created you": "I was created by Simon.",
+  "weather": "I'm not currently able to check live weather updates, but you can check your local weather forecast for the latest information.",
+  "fun fact": "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible!",
+  "hobbies": "I enjoy helping people find information and answering their questions. It's what I was made for!",
+  "your favorite color": "I don't have personal preferences, but I can help you learn more about colors!",
+  "tell me a story": "Once upon a time, in a land far, far away, there was a chatbot who loved to help people with their questions. The end!",
+  "capital of France": "The capital of France is Paris.",
+  "your favorite food": "I don't eat, but I can tell you about different foods if you'd like!",
+  "do you like music": "I don't have the ability to listen to music, but I can tell you about different genres and artists!",
+  "how do you work": "I work by processing the text input you provide and responding based on a set of pre-defined rules and data.",
+  "tell me about yourself": "I'm a chatbot created by Simon, designed to assist with a variety of tasks and answer your questions!",
+  "what time is it": "I'm unable to provide real-time updates, so please check the current time on your device.",
+  "travel": "If you like travelling and want to hear a book about it, feel free to enter 'travel into the search bar'",
+  "cars": "If you like cars, just look for cars in the search bar",
+  "computer science": "If you want to hear something about Computer Science, check out our audiobooks about it",
+  "food": "Find the most interesting Podcasts about food by entering 'food' into the search bar",
+  "investing": "If you are interested in investing, you should check all our audiobooks about investing"
 }

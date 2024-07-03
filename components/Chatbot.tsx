@@ -37,7 +37,7 @@ const Chatbot: React.FC = () => {
         return (responses as ResponseData)[key];
       }
     }
-    return "Sorry, I don't have a recommendation for that.";
+    return "Sorry, I have no response for that. Currently supported topics are: Computer Science, Investing, Travelling, Cars and Food.";
   };
 
   const toggleChat = () => {
@@ -48,14 +48,14 @@ const Chatbot: React.FC = () => {
     <div className="fixed bottom-0 right-0 m-4 z-10">
       <button
         onClick={toggleChat}
-        className="bg-blue-500 text-white p-2 rounded-full hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500"
+        className="bg-orange-500 text-white p-2 rounded-full hover:bg-orange-600 focus:outline-none focus:ring-2 focus:ring-orange-700"
       >
         {isOpen ? "Close Chat" : "Open Chat"}
       </button>
       {isOpen && (
         <div className="w-full sm:w-96 mt-4 p-4 bg-gray-800 text-white border border-gray-600 shadow-lg rounded-lg">
           <h2 className="text-center text-xl font-bold mb-4 text-white-1">
-            Support Chatbot
+            Support Chatbot:
           </h2>
           <div
             className="h-64 overflow-y-auto mb-4 p-2 bg-gray-700 rounded-lg"
